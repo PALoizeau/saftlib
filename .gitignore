@@ -40,6 +40,7 @@ saft-fg-ctl
 saft-gmt-check
 saft-io-ctl
 saft-lcd
+saft-mcbm-ro
 saft-mfg-ctl
 saft-pps-gen
 saft-roundtrip-latency
